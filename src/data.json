@@ -1,0 +1,34 @@
+{
+  "68": {
+    "1": {
+      "1": [
+        {
+          "word": "(Marty",
+          "meaning": "의 에이전시 사무실)"
+        }
+      ],
+      "2": [],
+      "3": []
+    },
+    "2": {
+      "1": [
+        {
+          "word": "(Mrs. Berry",
+          "meaning": "의 집 노크)"
+        }
+      ],
+      "2": [
+        {
+          "word": "Mrs. Berry: Ah, of course! Dàjiā hǎo",
+          "meaning": "안녕하세요). I speak a little bit of Mandarin myself."
+        }
+      ],
+      "3": [
+        {
+          "word": "(Sophie",
+          "meaning": "의 식당)"
+        }
+      ]
+    }
+  }
+}
